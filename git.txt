@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 harshini.n.................,,,,,,,.
 3rd sem cse  nayana
 3rd sem cse a sec
 
+=======
+harshini.n
+>>>>>>> 82bdafe (committing)
 =======
 harshini.n
 >>>>>>> 82bdafe (committing)
